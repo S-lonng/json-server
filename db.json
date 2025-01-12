@@ -5,7 +5,7 @@
             "title": "PP auto login config",
             "clientType": "iOS",
             "cptType":"PP",
-            "dayMaxLoginCount":50
+            "dayMaxLoginCount":60
         },
         {
             "id": 2,
@@ -27,6 +27,22 @@
             "body": "some comment",
             "postId": 1
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
     ],
     "profile": {
         "name": "typicode"
